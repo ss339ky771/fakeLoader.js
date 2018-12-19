@@ -2,8 +2,6 @@
 <p>
 simpleBlackLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
 </p>
-<h3>Check out the <a href="http://ss339ky771.github.io/simpleBlackLoader.js/demo/demo.html" target="_blank">Demo</a></h3>
-
 <h1>1. Include in HTML Document</h1>
 <p style="margin:0px;">Include in the top of your &lt;body&gt; tag </p>
 <pre><p>&lt;div id="simpleBlackLoader"&gt;&lt;/div&gt;</p></pre>
